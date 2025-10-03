@@ -1,0 +1,3 @@
+/home/billiejean/Documents/Wsakoe/SecondSemCMLab2/src/build/CMakeFiles/SplineLab.dir
+/home/billiejean/Documents/Wsakoe/SecondSemCMLab2/src/build/CMakeFiles/edit_cache.dir
+/home/billiejean/Documents/Wsakoe/SecondSemCMLab2/src/build/CMakeFiles/rebuild_cache.dir
